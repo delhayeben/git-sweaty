@@ -27224,6 +27224,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17950694507",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 17,
+      "name": "Legs are back",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17964658245",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49564,6 +49573,15 @@
           "distance": 36404.1,
           "elevation_gain": 341.0,
           "moving_time": 4939.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17964658245"
+          ],
+          "count": 1,
+          "distance": 41902.2,
+          "elevation_gain": 398.0,
+          "moving_time": 5115.0
         }
       },
       "Run": {
@@ -49707,7 +49725,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:46:38.313611+00:00",
+  "generated_at": "2026-04-04T15:40:08.549241+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

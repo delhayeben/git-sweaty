@@ -39323,5 +39323,18 @@
     "start_date_local": "2026-04-02T16:17:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 41902.2,
+    "elevation_gain": 398.0,
+    "id": "17964658245",
+    "moving_time": 5115.0,
+    "name": "Legs are back",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T17:02:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
