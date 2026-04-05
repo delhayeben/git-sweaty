@@ -39336,5 +39336,31 @@
     "start_date_local": "2026-04-03T17:02:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 35266.4,
+    "elevation_gain": 295.0,
+    "id": "17978008044",
+    "moving_time": 3939.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T17:53:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 28873.0,
+    "elevation_gain": 318.6,
+    "id": "17984966831",
+    "moving_time": 3888.0,
+    "name": "easy peasy devant la TV",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T10:55:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
