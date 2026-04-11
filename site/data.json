@@ -27271,12 +27271,39 @@
       "year": 2026
     },
     {
+      "date": "2026-04-07",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18057288559",
+      "year": 2026
+    },
+    {
       "date": "2026-04-08",
       "hour": 18,
       "name": "Picnic season opened",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18031853760",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18064881683",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18065927946",
       "year": 2026
     }
   ],
@@ -49648,12 +49675,13 @@
         },
         "2026-04-07": {
           "activity_ids": [
-            "18008880491"
+            "18008880491",
+            "18057288559"
           ],
-          "count": 1,
-          "distance": 6755.8,
-          "elevation_gain": 109.0,
-          "moving_time": 1201.0
+          "count": 2,
+          "distance": 13716.2,
+          "elevation_gain": 131.0,
+          "moving_time": 2166.0
         },
         "2026-04-08": {
           "activity_ids": [
@@ -49663,6 +49691,16 @@
           "distance": 19229.7,
           "elevation_gain": 118.0,
           "moving_time": 3299.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18064881683",
+            "18065927946"
+          ],
+          "count": 2,
+          "distance": 112360.4,
+          "elevation_gain": 1103.0,
+          "moving_time": 14972.0
         }
       },
       "Run": {
@@ -49815,7 +49853,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T16:01:42.433598+00:00",
+  "generated_at": "2026-04-11T15:40:50.682568+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

@@ -39390,6 +39390,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-07",
+    "distance": 6960.4,
+    "elevation_gain": 22.0,
+    "id": "18057288559",
+    "moving_time": 965.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T16:05:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-04-08",
     "distance": 19229.7,
     "elevation_gain": 118.0,
@@ -39399,6 +39412,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-08T18:25:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 109150.0,
+    "elevation_gain": 1085.0,
+    "id": "18064881683",
+    "moving_time": 14474.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T08:55:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3210.4,
+    "elevation_gain": 18.0,
+    "id": "18065927946",
+    "moving_time": 498.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T14:45:57Z",
     "type": "Ride",
     "year": 2026
   }
