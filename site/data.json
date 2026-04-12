@@ -27291,7 +27291,7 @@
     {
       "date": "2026-04-11",
       "hour": 8,
-      "name": "Morning Ride",
+      "name": "Km de qualit\u00e9 avec une bonne bande \u263a\ufe0f",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18064881683",
@@ -49853,7 +49853,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:40:50.682568+00:00",
+  "generated_at": "2026-04-12T15:43:42.076445+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
