@@ -39557,5 +39557,31 @@
     "start_date_local": "2026-04-17T16:08:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 12550.4,
+    "elevation_gain": 192.0,
+    "id": "18180636308",
+    "moving_time": 2162.0,
+    "name": "Soft pedaling week started",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-20T08:24:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 7055.6,
+    "elevation_gain": 27.0,
+    "id": "18184667745",
+    "moving_time": 1003.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-20T16:10:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
