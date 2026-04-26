@@ -39661,5 +39661,31 @@
     "start_date_local": "2026-04-25T07:19:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 246581.0,
+    "elevation_gain": 4189.0,
+    "id": "18266976287",
+    "moving_time": 34094.0,
+    "name": "LBL 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T07:49:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 7000.0,
+    "elevation_gain": 0.0,
+    "id": "18267211733",
+    "moving_time": 900.0,
+    "name": "Missing km\u2019s",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T18:16:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

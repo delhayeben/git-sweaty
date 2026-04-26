@@ -27458,6 +27458,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18246807423",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 7,
+      "name": "LBL 2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18266976287",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 18,
+      "name": "Missing km\u2019s",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18267211733",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49945,12 +49963,14 @@
         },
         "2026-04-25": {
           "activity_ids": [
-            "18246807423"
+            "18246807423",
+            "18266976287",
+            "18267211733"
           ],
-          "count": 1,
-          "distance": 4958.9,
-          "elevation_gain": 59.0,
-          "moving_time": 871.0
+          "count": 3,
+          "distance": 258539.9,
+          "elevation_gain": 4248.0,
+          "moving_time": 35865.0
         }
       },
       "Run": {
@@ -50103,7 +50123,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:49:35.167740+00:00",
+  "generated_at": "2026-04-26T15:51:37.680325+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
