@@ -39791,5 +39791,18 @@
     "start_date_local": "2026-04-30T17:40:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 152337.0,
+    "elevation_gain": 2507.0,
+    "id": "18346480764",
+    "moving_time": 20018.0,
+    "name": "La fl\u00e8che de Wallonie",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T09:10:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
