@@ -39830,5 +39830,44 @@
     "start_date_local": "2026-05-04T18:00:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 2188.8,
+    "elevation_gain": 21.0,
+    "id": "18408538804",
+    "moving_time": 371.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T08:51:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 20687.1,
+    "elevation_gain": 205.0,
+    "id": "18409550759",
+    "moving_time": 2584.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T10:47:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 16331.3,
+    "elevation_gain": 0.0,
+    "id": "18413049601",
+    "moving_time": 1823.0,
+    "name": "MyWhoosh - Ramp Test - MyWhoosh",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T16:09:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
