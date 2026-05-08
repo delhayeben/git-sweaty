@@ -27602,6 +27602,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18413049601",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18414916972",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50168,12 +50177,13 @@
         "2026-05-07": {
           "activity_ids": [
             "18408538804",
-            "18409550759"
+            "18409550759",
+            "18414916972"
           ],
-          "count": 2,
-          "distance": 22875.899999999998,
-          "elevation_gain": 226.0,
-          "moving_time": 2955.0
+          "count": 3,
+          "distance": 45165.8,
+          "elevation_gain": 409.0,
+          "moving_time": 5868.0
         }
       },
       "Run": {
@@ -50335,7 +50345,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:58:37.464291+00:00",
+  "generated_at": "2026-05-08T16:21:00.718402+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
