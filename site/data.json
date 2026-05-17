@@ -27683,6 +27683,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18526382854",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 9,
+      "name": "MyWhoosh - Pacing #3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18538698212",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50461,11 +50470,20 @@
           "distance": 31690.6,
           "elevation_gain": 198.4,
           "moving_time": 3669.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18538698212"
+          ],
+          "count": 1,
+          "distance": 31561.0,
+          "elevation_gain": 328.4,
+          "moving_time": 3736.0
         }
       }
     }
   },
-  "generated_at": "2026-05-16T16:02:56.679325+00:00",
+  "generated_at": "2026-05-17T16:03:34.897208+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

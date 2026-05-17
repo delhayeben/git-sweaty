@@ -39986,5 +39986,18 @@
     "start_date_local": "2026-05-16T10:38:06Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 31561.0,
+    "elevation_gain": 328.4,
+    "id": "18538698212",
+    "moving_time": 3736.0,
+    "name": "MyWhoosh - Pacing #3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-17T09:35:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
