@@ -40038,5 +40038,18 @@
     "start_date_local": "2026-05-19T10:55:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 37464.3,
+    "elevation_gain": 595.3,
+    "id": "18596380021",
+    "moving_time": 6529.0,
+    "name": "Stockeu et Haute lev\u00e9e !",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T14:57:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
