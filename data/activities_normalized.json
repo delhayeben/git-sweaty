@@ -40051,5 +40051,18 @@
     "start_date_local": "2026-05-21T14:57:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 151259.0,
+    "elevation_gain": 1865.0,
+    "id": "18608604354",
+    "moving_time": 19955.0,
+    "name": "Retour Team building",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T09:49:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
