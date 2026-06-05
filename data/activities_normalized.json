@@ -40259,5 +40259,31 @@
     "start_date_local": "2026-06-04T17:45:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 63124.4,
+    "elevation_gain": 478.0,
+    "id": "18787981415",
+    "moving_time": 8403.0,
+    "name": "Jeudi frite",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T18:21:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 24598.6,
+    "elevation_gain": 256.0,
+    "id": "18798709113",
+    "moving_time": 3633.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T16:59:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
