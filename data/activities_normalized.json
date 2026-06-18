@@ -40441,5 +40441,31 @@
     "start_date_local": "2026-06-17T18:10:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 18951.8,
+    "elevation_gain": 138.0,
+    "id": "18962406946",
+    "moving_time": 3488.0,
+    "name": "Promenade et picnic du mercredi \ud83e\udd70",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T18:48:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 22201.5,
+    "elevation_gain": 199.0,
+    "id": "18969331263",
+    "moving_time": 2848.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T07:19:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
