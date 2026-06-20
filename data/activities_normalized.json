@@ -40467,5 +40467,18 @@
     "start_date_local": "2026-06-18T07:19:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 93133.4,
+    "elevation_gain": 946.0,
+    "id": "18995172631",
+    "moving_time": 11903.0,
+    "name": "Sortie du samedi avec les copaings",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T09:16:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

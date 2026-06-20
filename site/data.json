@@ -28016,6 +28016,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18969331263",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "name": "Sortie du samedi avec les copaings",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18995172631",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50809,6 +50818,15 @@
           "distance": 22201.5,
           "elevation_gain": 199.0,
           "moving_time": 2848.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18995172631"
+          ],
+          "count": 1,
+          "distance": 93133.4,
+          "elevation_gain": 946.0,
+          "moving_time": 11903.0
         }
       },
       "Run": {
@@ -50997,7 +51015,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:23:14.539184+00:00",
+  "generated_at": "2026-06-20T16:25:34.913756+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
