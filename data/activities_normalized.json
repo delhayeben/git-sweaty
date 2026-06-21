@@ -40480,5 +40480,31 @@
     "start_date_local": "2026-06-20T09:16:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 54794.1,
+    "elevation_gain": 495.0,
+    "id": "19007289178",
+    "moving_time": 8763.0,
+    "name": "Les petits plaisir simples",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T08:57:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 23299.7,
+    "elevation_gain": 196.0,
+    "id": "19011896149",
+    "moving_time": 3847.0,
+    "name": "Fin d\u2019un bon week-end :)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T16:07:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
