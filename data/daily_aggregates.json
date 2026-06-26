@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T17:19:27.477212+00:00",
+  "generated_at": "2026-06-26T17:04:38.511364+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -22845,12 +22845,22 @@
         "2026-06-25": {
           "activity_ids": [
             "19057674127",
-            "19063631251"
+            "19063631251",
+            "19065779858"
           ],
-          "count": 2,
-          "distance": 14289.4,
-          "elevation_gain": 127.0,
-          "moving_time": 2241.0
+          "count": 3,
+          "distance": 37723.5,
+          "elevation_gain": 296.0,
+          "moving_time": 4948.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19070423460"
+          ],
+          "count": 1,
+          "distance": 23029.9,
+          "elevation_gain": 206.0,
+          "moving_time": 3137.0
         }
       },
       "Run": {
