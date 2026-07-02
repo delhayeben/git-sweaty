@@ -28142,6 +28142,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19070423460",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 17,
+      "name": "Un peu de Gravel en Toscane",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19142575082",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 10,
+      "name": "Un peu de Gravel en Toscane (d2)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19151703825",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51005,6 +51023,24 @@
           "distance": 23029.9,
           "elevation_gain": 206.0,
           "moving_time": 3137.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "19142575082"
+          ],
+          "count": 1,
+          "distance": 24218.3,
+          "elevation_gain": 656.0,
+          "moving_time": 6179.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19151703825"
+          ],
+          "count": 1,
+          "distance": 46083.6,
+          "elevation_gain": 1250.0,
+          "moving_time": 12718.0
         }
       },
       "Run": {
@@ -51193,7 +51229,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:21:15.561053+00:00",
+  "generated_at": "2026-07-02T16:56:18.371742+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
