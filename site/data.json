@@ -28182,7 +28182,7 @@
     {
       "date": "2026-07-11",
       "hour": 18,
-      "name": "Evening Ride",
+      "name": "Avant le concert!",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/19272077491",
@@ -51283,7 +51283,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T16:03:58.638630+00:00",
+  "generated_at": "2026-07-13T17:19:38.497588+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
