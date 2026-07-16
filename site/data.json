@@ -28187,6 +28187,33 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19272077491",
       "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19332529630",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19334767545",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19337151369",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51095,6 +51122,17 @@
           "distance": 53957.8,
           "elevation_gain": 323.0,
           "moving_time": 7472.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19332529630",
+            "19334767545",
+            "19337151369"
+          ],
+          "count": 3,
+          "distance": 79371.3,
+          "elevation_gain": 618.0,
+          "moving_time": 12564.0
         }
       },
       "Run": {
@@ -51283,7 +51321,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T16:38:59.413890+00:00",
+  "generated_at": "2026-07-16T16:23:14.127346+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
