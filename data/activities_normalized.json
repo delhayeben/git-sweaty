@@ -40753,5 +40753,31 @@
     "start_date_local": "2026-07-16T14:37:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 137875.0,
+    "elevation_gain": 3404.0,
+    "id": "19380735583",
+    "moving_time": 24692.0,
+    "name": "Aller voir Remco dans la Solaison",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T12:25:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 57247.8,
+    "elevation_gain": 1565.0,
+    "id": "19390249306",
+    "moving_time": 12410.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T13:46:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
