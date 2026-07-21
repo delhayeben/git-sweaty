@@ -40773,10 +40773,23 @@
     "elevation_gain": 1565.0,
     "id": "19390249306",
     "moving_time": 12410.0,
-    "name": "Afternoon Ride",
+    "name": "Semaine v\u00e9lo (travail) dan les alpes - D2",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-20T13:46:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 133543.0,
+    "elevation_gain": 2753.0,
+    "id": "19405306211",
+    "moving_time": 20555.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-21T11:43:07Z",
     "type": "Ride",
     "year": 2026
   }
