@@ -28236,7 +28236,7 @@
     {
       "date": "2026-07-21",
       "hour": 11,
-      "name": "Lunch Ride",
+      "name": "Aller voir le TT \u00e0 Thonon",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19405306211",
@@ -51375,7 +51375,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:27:25.885723+00:00",
+  "generated_at": "2026-07-22T16:25:49.643697+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
