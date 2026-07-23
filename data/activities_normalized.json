@@ -40792,5 +40792,31 @@
     "start_date_local": "2026-07-21T11:43:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 58654.1,
+    "elevation_gain": 1540.0,
+    "id": "19420210053",
+    "moving_time": 12225.0,
+    "name": "#cestmercredi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-22T14:03:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 95418.5,
+    "elevation_gain": 1909.0,
+    "id": "19433509101",
+    "moving_time": 14713.0,
+    "name": "Elle a fait mal celle l\u00e0",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-23T13:08:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

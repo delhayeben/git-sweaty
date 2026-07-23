@@ -28241,6 +28241,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19405306211",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 14,
+      "name": "#cestmercredi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19420210053",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 13,
+      "name": "Elle a fait mal celle l\u00e0",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19433509101",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51187,6 +51205,24 @@
           "distance": 133543.0,
           "elevation_gain": 2753.0,
           "moving_time": 20555.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19420210053"
+          ],
+          "count": 1,
+          "distance": 58654.1,
+          "elevation_gain": 1540.0,
+          "moving_time": 12225.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19433509101"
+          ],
+          "count": 1,
+          "distance": 95418.5,
+          "elevation_gain": 1909.0,
+          "moving_time": 14713.0
         }
       },
       "Run": {
@@ -51375,7 +51411,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T16:25:49.643697+00:00",
+  "generated_at": "2026-07-23T16:40:35.067893+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
