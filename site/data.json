@@ -28259,6 +28259,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19433509101",
       "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 20,
+      "name": "Evening Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19449979224",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50141,6 +50150,15 @@
           "distance": 3028.2,
           "elevation_gain": 46.2,
           "moving_time": 2119.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19449979224"
+          ],
+          "count": 1,
+          "distance": 6802.6,
+          "elevation_gain": 189.0,
+          "moving_time": 4904.0
         }
       },
       "MountainBikeRide": {
@@ -51411,7 +51429,7 @@
       }
     }
   },
-  "generated_at": "2026-07-24T16:47:33.479880+00:00",
+  "generated_at": "2026-07-25T16:09:05.706326+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
