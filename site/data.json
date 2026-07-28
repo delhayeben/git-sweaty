@@ -28286,6 +28286,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19481415477",
       "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 17,
+      "name": "Lundi avec Alex",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19488592756",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19495724353",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51271,12 +51289,22 @@
         },
         "2026-07-27": {
           "activity_ids": [
-            "19481415477"
+            "19481415477",
+            "19488592756"
+          ],
+          "count": 2,
+          "distance": 68104.6,
+          "elevation_gain": 535.0,
+          "moving_time": 9159.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19495724353"
           ],
           "count": 1,
-          "distance": 22358.1,
-          "elevation_gain": 199.0,
-          "moving_time": 2933.0
+          "distance": 7168.4,
+          "elevation_gain": 95.0,
+          "moving_time": 1343.0
         }
       },
       "Run": {
@@ -51465,7 +51493,7 @@
       }
     }
   },
-  "generated_at": "2026-07-27T17:03:42.610875+00:00",
+  "generated_at": "2026-07-28T16:45:19.017370+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

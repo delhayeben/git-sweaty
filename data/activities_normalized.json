@@ -40857,5 +40857,31 @@
     "start_date_local": "2026-07-27T08:04:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 45746.5,
+    "elevation_gain": 336.0,
+    "id": "19488592756",
+    "moving_time": 6226.0,
+    "name": "Lundi avec Alex",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-27T17:34:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 7168.4,
+    "elevation_gain": 95.0,
+    "id": "19495724353",
+    "moving_time": 1343.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T08:53:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
