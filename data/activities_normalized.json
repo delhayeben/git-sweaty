@@ -40935,5 +40935,18 @@
     "start_date_local": "2026-07-30T08:25:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 55222.9,
+    "elevation_gain": 475.0,
+    "id": "19532751812",
+    "moving_time": 7360.0,
+    "name": "Seconde de la semaine avec Alex",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-30T17:42:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -28340,6 +28340,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19525019114",
       "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 17,
+      "name": "Seconde de la semaine avec Alex",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19532751812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51355,12 +51364,13 @@
         },
         "2026-07-30": {
           "activity_ids": [
-            "19525019114"
+            "19525019114",
+            "19532751812"
           ],
-          "count": 1,
-          "distance": 22341.3,
-          "elevation_gain": 199.0,
-          "moving_time": 2940.0
+          "count": 2,
+          "distance": 77564.2,
+          "elevation_gain": 674.0,
+          "moving_time": 10300.0
         }
       },
       "Run": {
@@ -51549,7 +51559,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T16:41:32.856013+00:00",
+  "generated_at": "2026-07-31T16:49:29.101465+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
