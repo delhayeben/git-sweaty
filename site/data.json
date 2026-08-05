@@ -28349,6 +28349,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19532751812",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 10,
+      "name": "Vacances!",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19609609464",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50240,6 +50249,15 @@
           "distance": 6802.6,
           "elevation_gain": 189.0,
           "moving_time": 4904.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19609609464"
+          ],
+          "count": 1,
+          "distance": 3151.8,
+          "elevation_gain": 239.8,
+          "moving_time": 3648.0
         }
       },
       "MountainBikeRide": {
@@ -51559,7 +51577,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:57:43.714595+00:00",
+  "generated_at": "2026-08-05T16:46:27.033095+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

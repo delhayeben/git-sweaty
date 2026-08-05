@@ -40948,5 +40948,18 @@
     "start_date_local": "2026-07-30T17:42:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 3151.8,
+    "elevation_gain": 239.8,
+    "id": "19609609464",
+    "moving_time": 3648.0,
+    "name": "Vacances!",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-05T10:03:58Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
