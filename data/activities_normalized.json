@@ -40961,5 +40961,18 @@
     "start_date_local": "2026-08-05T10:03:58Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 7557.9,
+    "elevation_gain": 510.0,
+    "id": "19627891701",
+    "moving_time": 8641.0,
+    "name": "Avec les cousins",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-06T11:24:29Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
