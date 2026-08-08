@@ -40974,5 +40974,18 @@
     "start_date_local": "2026-08-06T11:24:29Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 9267.1,
+    "elevation_gain": 579.1,
+    "id": "19643830269",
+    "moving_time": 9930.0,
+    "name": "Pico Jano",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-07T14:47:27Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

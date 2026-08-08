@@ -28367,6 +28367,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19627891701",
       "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 14,
+      "name": "Pico Jano",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19643830269",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50276,6 +50285,15 @@
           "distance": 7557.9,
           "elevation_gain": 510.0,
           "moving_time": 8641.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19643830269"
+          ],
+          "count": 1,
+          "distance": 9267.1,
+          "elevation_gain": 579.1,
+          "moving_time": 9930.0
         }
       },
       "MountainBikeRide": {
@@ -51595,7 +51613,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T16:01:11.687353+00:00",
+  "generated_at": "2026-08-08T15:36:40.772804+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
