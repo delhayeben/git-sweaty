@@ -28380,7 +28380,7 @@
     {
       "date": "2026-08-09",
       "hour": 11,
-      "name": "Lunch Walk",
+      "name": "Entr\u00e9e dans le parc national",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/19671383889",
@@ -28393,6 +28393,24 @@
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/19682988146",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 14,
+      "name": "Les picos vus d\u2019en haut!",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19721946410",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 16,
+      "name": "Aller voir l\u2019\u00e9clipse",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19716002225",
       "year": 2026
     }
   ],
@@ -50321,6 +50339,24 @@
           "distance": 4245.6,
           "elevation_gain": 320.9,
           "moving_time": 4227.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19721946410"
+          ],
+          "count": 1,
+          "distance": 9547.5,
+          "elevation_gain": 753.1,
+          "moving_time": 8885.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19716002225"
+          ],
+          "count": 1,
+          "distance": 8832.0,
+          "elevation_gain": 551.3,
+          "moving_time": 9059.0
         }
       },
       "MountainBikeRide": {
@@ -51651,7 +51687,7 @@
       }
     }
   },
-  "generated_at": "2026-08-12T16:03:15.562096+00:00",
+  "generated_at": "2026-08-13T16:03:13.570177+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

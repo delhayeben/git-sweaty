@@ -40994,7 +40994,7 @@
     "elevation_gain": 561.0,
     "id": "19671383889",
     "moving_time": 9038.0,
-    "name": "Lunch Walk",
+    "name": "Entr\u00e9e dans le parc national",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-08-09T11:39:26Z",
@@ -41011,6 +41011,32 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-08-10T16:24:28Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 9547.5,
+    "elevation_gain": 753.1,
+    "id": "19721946410",
+    "moving_time": 8885.0,
+    "name": "Les picos vus d\u2019en haut!",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-11T14:15:35Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 8832.0,
+    "elevation_gain": 551.3,
+    "id": "19716002225",
+    "moving_time": 9059.0,
+    "name": "Aller voir l\u2019\u00e9clipse",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-12T16:21:32Z",
     "type": "Hike",
     "year": 2026
   }
