@@ -28412,6 +28412,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19716002225",
       "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 18,
+      "name": "Retour au pays",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19771996195",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51488,6 +51497,15 @@
           "distance": 77564.2,
           "elevation_gain": 674.0,
           "moving_time": 10300.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19771996195"
+          ],
+          "count": 1,
+          "distance": 71809.8,
+          "elevation_gain": 534.0,
+          "moving_time": 9125.0
         }
       },
       "Run": {
@@ -51687,7 +51705,7 @@
       }
     }
   },
-  "generated_at": "2026-08-16T15:28:11.571582+00:00",
+  "generated_at": "2026-08-17T15:31:39.806604+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
