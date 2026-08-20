@@ -28430,6 +28430,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19805188440",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19810915203",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19819553690",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19824981333",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51518,12 +51545,23 @@
         },
         "2026-08-19": {
           "activity_ids": [
-            "19805188440"
+            "19805188440",
+            "19810915203"
           ],
-          "count": 1,
-          "distance": 7289.8,
-          "elevation_gain": 105.0,
-          "moving_time": 1261.0
+          "count": 2,
+          "distance": 14695.5,
+          "elevation_gain": 146.0,
+          "moving_time": 2296.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19819553690",
+            "19824981333"
+          ],
+          "count": 2,
+          "distance": 4735.8,
+          "elevation_gain": 29.0,
+          "moving_time": 834.0
         }
       },
       "Run": {
@@ -51723,7 +51761,7 @@
       }
     }
   },
-  "generated_at": "2026-08-19T15:37:53.487891+00:00",
+  "generated_at": "2026-08-20T15:39:49.034813+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
