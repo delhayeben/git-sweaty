@@ -28457,6 +28457,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19824981333",
       "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 18,
+      "name": "Papote et ?crampes?!?!? Avec Nico",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19827253254",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51556,12 +51565,13 @@
         "2026-08-20": {
           "activity_ids": [
             "19819553690",
-            "19824981333"
+            "19824981333",
+            "19827253254"
           ],
-          "count": 2,
-          "distance": 4735.8,
-          "elevation_gain": 29.0,
-          "moving_time": 834.0
+          "count": 3,
+          "distance": 65336.700000000004,
+          "elevation_gain": 454.0,
+          "moving_time": 8506.0
         }
       },
       "Run": {
@@ -51761,7 +51771,7 @@
       }
     }
   },
-  "generated_at": "2026-08-20T15:39:49.034813+00:00",
+  "generated_at": "2026-08-21T15:40:10.640494+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

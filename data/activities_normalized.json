@@ -41104,5 +41104,18 @@
     "start_date_local": "2026-08-20T17:17:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 60600.9,
+    "elevation_gain": 425.0,
+    "id": "19827253254",
+    "moving_time": 7672.0,
+    "name": "Papote et ?crampes?!?!? Avec Nico",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-20T18:03:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
