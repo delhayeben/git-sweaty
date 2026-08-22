@@ -41117,5 +41117,31 @@
     "start_date_local": "2026-08-20T18:03:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 17299.3,
+    "elevation_gain": 107.6,
+    "id": "19840761502",
+    "moving_time": 2062.0,
+    "name": "MyWhoosh - Endurance with 30/30's",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-21T20:05:03Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 19073.4,
+    "elevation_gain": 75.4,
+    "id": "19851290694",
+    "moving_time": 2281.0,
+    "name": "MyWhoosh - Zone 2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-22T15:25:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
