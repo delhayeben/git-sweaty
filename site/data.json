@@ -28493,6 +28493,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19861012130",
       "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 18,
+      "name": "Optimal setup for grant writing",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19880529761",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50438,6 +50447,15 @@
           "distance": 8832.0,
           "elevation_gain": 551.3,
           "moving_time": 9059.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19880529761"
+          ],
+          "count": 1,
+          "distance": 2748.3,
+          "elevation_gain": 24.4,
+          "moving_time": 1879.0
         }
       },
       "MountainBikeRide": {
@@ -51825,7 +51843,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T15:46:19.229531+00:00",
+  "generated_at": "2026-08-25T15:50:53.066411+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
