@@ -28520,6 +28520,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19909808646",
       "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 18,
+      "name": "Date du mercredi \ud83e\udd70",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19912910665",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 8,
+      "name": "Emc2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19918549053",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19923923505",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 17,
+      "name": "Jeudi frites!",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19926105100",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51639,12 +51675,24 @@
         "2026-08-26": {
           "activity_ids": [
             "19903735777",
-            "19909808646"
+            "19909808646",
+            "19912910665"
           ],
-          "count": 2,
-          "distance": 4642.799999999999,
-          "elevation_gain": 30.0,
-          "moving_time": 883.0
+          "count": 3,
+          "distance": 62002.899999999994,
+          "elevation_gain": 257.0,
+          "moving_time": 9640.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19918549053",
+            "19923923505",
+            "19926105100"
+          ],
+          "count": 3,
+          "distance": 67261.6,
+          "elevation_gain": 191.0,
+          "moving_time": 8428.0
         }
       },
       "Run": {
@@ -51871,7 +51919,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:23:13.931285+00:00",
+  "generated_at": "2026-08-28T00:20:41.193353+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
