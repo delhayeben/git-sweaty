@@ -41247,5 +41247,31 @@
     "start_date_local": "2026-08-27T17:46:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 2505.7,
+    "elevation_gain": 27.0,
+    "id": "19932227505",
+    "moving_time": 492.0,
+    "name": "Emc2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-28T08:57:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 2469.9,
+    "elevation_gain": 12.0,
+    "id": "19937020331",
+    "moving_time": 564.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-28T16:46:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

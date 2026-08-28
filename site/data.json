@@ -28556,6 +28556,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19926105100",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 8,
+      "name": "Emc2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19932227505",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19937020331",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51693,6 +51711,16 @@
           "distance": 67261.6,
           "elevation_gain": 191.0,
           "moving_time": 8428.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19932227505",
+            "19937020331"
+          ],
+          "count": 2,
+          "distance": 4975.6,
+          "elevation_gain": 39.0,
+          "moving_time": 1056.0
         }
       },
       "Run": {
@@ -51919,7 +51947,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:20:41.193353+00:00",
+  "generated_at": "2026-08-28T23:59:11.501337+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
