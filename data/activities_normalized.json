@@ -41273,5 +41273,18 @@
     "start_date_local": "2026-08-28T16:46:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 82501.9,
+    "elevation_gain": 1690.0,
+    "id": "19948225458",
+    "moving_time": 15139.0,
+    "name": "Maquisard, vecquee, tier de coo, brune, wanne, stockeu, haute lev\u00e9e et rosier",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T09:34:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
