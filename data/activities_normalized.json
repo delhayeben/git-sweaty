@@ -41377,5 +41377,31 @@
     "start_date_local": "2026-09-02T19:04:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 50583.8,
+    "elevation_gain": 501.0,
+    "id": "20023975880",
+    "moving_time": 7008.0,
+    "name": "Jeudi sans frites",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T18:34:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 30012.1,
+    "elevation_gain": 521.2,
+    "id": "20032395907",
+    "moving_time": 3858.0,
+    "name": "MyWhoosh - Anaerobic Capacity into Sweetspot #3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T12:51:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
