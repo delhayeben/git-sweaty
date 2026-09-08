@@ -41442,5 +41442,18 @@
     "start_date_local": "2026-09-07T16:02:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 27228.9,
+    "elevation_gain": 304.2,
+    "id": "20090308688",
+    "moving_time": 3364.0,
+    "name": "MyWhoosh - 40min Tempo w/15sec surge",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-08T17:30:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
