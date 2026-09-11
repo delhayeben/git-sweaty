@@ -28718,6 +28718,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20118631086",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 18,
+      "name": "Fail",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20132655180",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51942,6 +51951,15 @@
           "distance": 55159.4,
           "elevation_gain": 486.0,
           "moving_time": 7179.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20132655180"
+          ],
+          "count": 1,
+          "distance": 17496.1,
+          "elevation_gain": 201.0,
+          "moving_time": 2509.0
         }
       },
       "Run": {
@@ -52195,7 +52213,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T18:16:39.038384+00:00",
+  "generated_at": "2026-09-11T18:20:42.282915+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
