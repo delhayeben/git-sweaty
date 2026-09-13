@@ -28727,6 +28727,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20132655180",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 8,
+      "name": "Pajottenland",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20155549103",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51960,6 +51969,15 @@
           "distance": 17496.1,
           "elevation_gain": 201.0,
           "moving_time": 2509.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20155549103"
+          ],
+          "count": 1,
+          "distance": 102721.0,
+          "elevation_gain": 687.0,
+          "moving_time": 13126.0
         }
       },
       "Run": {
@@ -52213,7 +52231,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:43:53.375967+00:00",
+  "generated_at": "2026-09-13T18:03:00.570810+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",

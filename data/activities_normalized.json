@@ -41494,5 +41494,18 @@
     "start_date_local": "2026-09-11T18:11:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 102721.0,
+    "elevation_gain": 687.0,
+    "id": "20155549103",
+    "moving_time": 13126.0,
+    "name": "Pajottenland",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-13T08:35:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
