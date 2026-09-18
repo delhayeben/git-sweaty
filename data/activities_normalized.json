@@ -41546,5 +41546,31 @@
     "start_date_local": "2026-09-17T17:22:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 22308.3,
+    "elevation_gain": 209.0,
+    "id": "20223318034",
+    "moving_time": 3030.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-18T07:58:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 12709.9,
+    "elevation_gain": 175.0,
+    "id": "20229238999",
+    "moving_time": 3478.0,
+    "name": "VTT avec Andrew",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-09-18T17:21:20Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]

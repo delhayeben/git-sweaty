@@ -28763,6 +28763,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20216228412",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20223318034",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 17,
+      "name": "VTT avec Andrew",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/20229238999",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50737,6 +50755,15 @@
           "distance": 10517.3,
           "elevation_gain": 109.0,
           "moving_time": 2661.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20229238999"
+          ],
+          "count": 1,
+          "distance": 12709.9,
+          "elevation_gain": 175.0,
+          "moving_time": 3478.0
         }
       },
       "Ride": {
@@ -52024,6 +52051,15 @@
           "distance": 49045.100000000006,
           "elevation_gain": 571.0,
           "moving_time": 6715.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20223318034"
+          ],
+          "count": 1,
+          "distance": 22308.3,
+          "elevation_gain": 209.0,
+          "moving_time": 3030.0
         }
       },
       "Run": {
@@ -52277,7 +52313,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:54:59.343914+00:00",
+  "generated_at": "2026-09-18T18:16:18.848517+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
