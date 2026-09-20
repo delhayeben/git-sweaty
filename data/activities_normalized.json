@@ -41572,5 +41572,18 @@
     "start_date_local": "2026-09-18T17:21:20Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 35622.2,
+    "elevation_gain": 315.6,
+    "id": "20257345039",
+    "moving_time": 9263.0,
+    "name": "Bruxelles sans voiture",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-09-20T12:34:40Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]

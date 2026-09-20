@@ -28781,6 +28781,15 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/20229238999",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 12,
+      "name": "Bruxelles sans voiture",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/20257345039",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50764,6 +50773,15 @@
           "distance": 12709.9,
           "elevation_gain": 175.0,
           "moving_time": 3478.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20257345039"
+          ],
+          "count": 1,
+          "distance": 35622.2,
+          "elevation_gain": 315.6,
+          "moving_time": 9263.0
         }
       },
       "Ride": {
@@ -52313,7 +52331,7 @@
       }
     }
   },
-  "generated_at": "2026-09-19T17:54:32.393036+00:00",
+  "generated_at": "2026-09-20T18:09:44.737006+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
