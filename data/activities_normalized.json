@@ -41858,5 +41858,44 @@
     "start_date_local": "2026-09-29T15:59:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 15584.3,
+    "elevation_gain": 211.0,
+    "id": "20388963594",
+    "moving_time": 2251.0,
+    "name": "Bonheur!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T08:14:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 30592.1,
+    "elevation_gain": 230.0,
+    "id": "20391869728",
+    "moving_time": 3823.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T11:59:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 2142.6,
+    "elevation_gain": 5.0,
+    "id": "20394626989",
+    "moving_time": 383.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T17:48:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
