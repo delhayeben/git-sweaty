@@ -29042,6 +29042,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20539030476",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 11,
+      "name": "Mission Squadrats hunt",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20619317341",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51014,6 +51023,15 @@
           "distance": 2279.1,
           "elevation_gain": 27.8,
           "moving_time": 1707.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20619317341"
+          ],
+          "count": 1,
+          "distance": 6919.8,
+          "elevation_gain": 80.4,
+          "moving_time": 5411.0
         }
       },
       "MountainBikeRide": {
@@ -52715,7 +52733,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T18:43:45.880957+00:00",
+  "generated_at": "2026-10-17T17:49:42.829743+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
