@@ -29087,6 +29087,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20754827287",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 8,
+      "name": "Morning Mountain Bike Ride",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/20774685690",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51097,6 +51106,15 @@
           "distance": 35622.2,
           "elevation_gain": 315.6,
           "moving_time": 9263.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20774685690"
+          ],
+          "count": 1,
+          "distance": 2573.5,
+          "elevation_gain": 23.7,
+          "moving_time": 526.0
         }
       },
       "Ride": {
@@ -52805,7 +52823,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T20:11:01.363901+00:00",
+  "generated_at": "2026-10-29T20:09:13.343589+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
