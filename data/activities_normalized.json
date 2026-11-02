@@ -42027,5 +42027,18 @@
     "start_date_local": "2026-10-29T08:15:33Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 25295.5,
+    "elevation_gain": 248.0,
+    "id": "20831988428",
+    "moving_time": 3144.0,
+    "name": "MyWhoosh - Mitochondria #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-02T17:41:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
