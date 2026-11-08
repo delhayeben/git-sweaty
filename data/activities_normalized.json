@@ -42118,5 +42118,18 @@
     "start_date_local": "2026-11-05T12:48:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 25556.0,
+    "elevation_gain": 447.0,
+    "id": "20910903553",
+    "moving_time": 20975.0,
+    "name": "For\u00eat de Chimay",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-11-08T09:49:28Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
