@@ -42183,5 +42183,18 @@
     "start_date_local": "2026-11-12T17:51:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 24216.7,
+    "elevation_gain": 67.0,
+    "id": "20986813975",
+    "moving_time": 2732.0,
+    "name": "MyWhoosh - Spiked Aerobic #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-14T16:35:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

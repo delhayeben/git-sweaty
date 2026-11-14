@@ -29204,6 +29204,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20962318618",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 16,
+      "name": "MyWhoosh - Spiked Aerobic #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20986813975",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52984,6 +52993,15 @@
           "distance": 25295.5,
           "elevation_gain": 248.0,
           "moving_time": 3144.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20986813975"
+          ],
+          "count": 1,
+          "distance": 24216.7,
+          "elevation_gain": 67.0,
+          "moving_time": 2732.0
         }
       },
       "Walk": {
@@ -52999,7 +53017,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:21:05.552443+00:00",
+  "generated_at": "2026-11-14T19:51:05.447208+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
