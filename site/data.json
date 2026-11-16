@@ -29213,6 +29213,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20986813975",
       "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21005633939",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21010025064",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52719,6 +52737,16 @@
           "distance": 27615.3,
           "elevation_gain": 322.0,
           "moving_time": 3786.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21005633939",
+            "21010025064"
+          ],
+          "count": 2,
+          "distance": 20644.4,
+          "elevation_gain": 230.0,
+          "moving_time": 3272.0
         }
       },
       "Run": {
@@ -53017,7 +53045,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T20:16:20.407322+00:00",
+  "generated_at": "2026-11-16T23:41:54.784036+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
