@@ -42222,5 +42222,18 @@
     "start_date_local": "2026-11-16T16:24:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 19779.4,
+    "elevation_gain": 345.0,
+    "id": "21056607477",
+    "moving_time": 4996.0,
+    "name": "Need to unplug the cord",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-20T10:03:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
