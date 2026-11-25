@@ -29251,12 +29251,48 @@
       "year": 2026
     },
     {
+      "date": "2026-11-21",
+      "hour": 22,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21116371773",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-21",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21116371780",
+      "year": 2026
+    },
+    {
       "date": "2026-11-22",
       "hour": 15,
       "name": "Petite marche du dimanche pour la paix!",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/21087066173",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21116619264",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21121768569",
       "year": 2026
     }
   ],
@@ -52795,12 +52831,24 @@
         },
         "2026-11-21": {
           "activity_ids": [
-            "21072686152"
+            "21072686152",
+            "21116371773",
+            "21116371780"
           ],
-          "count": 1,
-          "distance": 25555.6,
-          "elevation_gain": 191.0,
-          "moving_time": 3691.0
+          "count": 3,
+          "distance": 33883.5,
+          "elevation_gain": 253.0,
+          "moving_time": 5061.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "21116619264",
+            "21121768569"
+          ],
+          "count": 2,
+          "distance": 21636.7,
+          "elevation_gain": 255.0,
+          "moving_time": 3323.0
         }
       },
       "Run": {
@@ -53099,7 +53147,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T23:49:40.160341+00:00",
+  "generated_at": "2026-11-25T23:31:52.749819+00:00",
   "other_bucket": "OtherSports",
   "repo": "delhayeben/git-sweaty",
   "source": "strava",
